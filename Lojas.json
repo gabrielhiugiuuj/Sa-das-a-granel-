@@ -1,0 +1,588 @@
+{
+"Lojas" : {
+    "Barra Mall CE 60": {
+        "centro_custo": "421067",
+        "deposito": "171",
+        "Senha": "Frosty1630"
+    },
+    "Boa Ventura CE 56": {
+        "centro_custo": "421064",
+        "deposito": "159",
+        "Senha": "Frosty1235"
+    },
+    "Granja Portugal CE 58": {
+        "centro_custo": "421065",
+        "deposito": "161",
+        "Senha": "Frosty3167"
+    },
+    "Lago Jacarey CE 57": {
+        "centro_custo": "421063",
+        "deposito": "160",
+        "Senha": "Frosty4313"
+    },
+    "Pátio Castelão CE 61": {
+        "centro_custo": "421068",
+        "deposito": "174",
+        "Senha": "Frosty2802"
+    },
+    "Pinto Madeira CE 59": {
+        "centro_custo": "421066",
+        "deposito": "163",
+        "Senha": "Frosty8900"
+    },
+    "Reserva Open Mall CE 55": {
+        "centro_custo": "421062",
+        "deposito": "158",
+        "Senha": "Frosty9751"
+    },
+    "Aquiraz CE35": {
+        "centro_custo": "421034",
+        "deposito": "119",
+        "Senha": "Frosty7627"
+    },
+    "Aracati CE32": {
+        "centro_custo": "421031",
+        "deposito": "114",
+        "Senha": "Frosty2834"
+    },
+    "Barbalha CE26": {
+        "centro_custo": "421025",
+        "deposito": "107",
+        "Senha": "Frosty1527"
+    },
+    "Beberibe CE37": {
+        "centro_custo": "421036",
+        "deposito": "121",
+        "Senha": "Frosty9649"
+    },
+    "Bom Jardim CE04": {
+        "centro_custo": "421003",
+        "deposito": "50",
+        "Senha": "Frosty5925"
+    },
+    "Buena Vista CE14": {
+        "centro_custo": "421013",
+        "deposito": "65",
+        "Senha": "Frosty4759"
+    },
+    "Cambeba CE05": {
+        "centro_custo": "421004",
+        "deposito": "51",
+        "Senha": "Frosty1633"
+    },
+    "Cascavel CE42": {
+        "centro_custo": "421040",
+        "deposito": "131",
+        "Senha": "Frosty3054"
+    },
+    "Cidade 2000 CE28": {
+        "centro_custo": "421027",
+        "deposito": "109",
+        "Senha": "Frosty4372"
+    },
+    "Cometa SP CE47": {
+        "centro_custo": "421058",
+        "deposito": "138",
+        "Senha": "Frosty8070"
+    },
+    "Cometa W Soares CE49": {
+        "centro_custo": "421045",
+        "deposito": "140",
+        "Senha": "Frosty5555"
+    },
+    "Conceito CE19": {
+        "centro_custo": "421018",
+        "deposito": "33",
+        "Senha": "Frosty3962"
+    },
+    "Conj Ceará I CE06": {
+        "centro_custo": "421005",
+        "deposito": "49",
+        "Senha": "Frosty2553"
+    },
+    "Conj Ceará II CE36": {
+        "centro_custo": "421035",
+        "deposito": "120",
+        "Senha": "Frosty3165"
+    },
+    "Diniz CE16": {
+        "centro_custo": "421015",
+        "deposito": "72",
+        "Senha": "Frosty5524"
+    },
+    "Francisco Sá CE17": {
+        "centro_custo": "421016",
+        "deposito": "73",
+        "Senha": "Frosty3515"
+    },
+    "Genibaú CE07": {
+        "centro_custo": "421006",
+        "deposito": "54",
+        "Senha": "Frosty3916"
+    },
+    "Iguatu CE24": {
+        "centro_custo": "421023",
+        "deposito": "105",
+        "Senha": "Frosty2762"
+    },
+    "ItaocaCE63": {
+        "centro_custo": "421070",
+        "deposito": "176",
+        "Senha": "Frosty4160"
+    },
+    "João Pessoa CE38": {
+        "centro_custo": "421037",
+        "deposito": "122",
+        "Senha": "Frosty8374"
+    },
+    "Joquei CE09": {
+        "centro_custo": "421008",
+        "deposito": "57",
+        "Senha": "Frosty7576"
+    },
+    "José Walter CE01": {
+        "centro_custo": "421001",
+        "deposito": "44.1",
+        "Senha": "Frosty7255"
+    },
+    "Juazeiro CE12": {
+        "centro_custo": "421011",
+        "deposito": "62",
+        "Senha": "Frosty1956"
+    },
+    "Juazeiro Mall CE45": {
+        "centro_custo": "421042",
+        "deposito": "60",
+        "Senha": "Frosty4206"
+    },
+    "Jurema CE29": {
+        "centro_custo": "421028",
+        "deposito": "111",
+        "Senha": "Frosty2595"
+    },
+    "Limoeiro do Norte CE27": {
+        "centro_custo": "421026",
+        "deposito": "108",
+        "Senha": "Frosty4728"
+    },
+    "Messej P.MatrizCE53": {
+        "centro_custo": "421059",
+        "deposito": "155",
+        "Senha": "Frosty1759"
+    },
+    "Maranguape CE46": {
+        "centro_custo": "421043",
+        "deposito": "137",
+        "Senha": "Frosty4759"
+    },
+    "Maraponga CE11": {
+        "centro_custo": "421010",
+        "deposito": "61",
+        "Senha": "Frosty2979"
+    },
+    "Matheus José WalterCE62": {
+        "centro_custo": "421069",
+        "deposito": "175",
+        "Senha": "Frosty4390"
+    },
+    "Messejana CE20": {
+        "centro_custo": "421019",
+        "deposito": "29",
+        "Senha": "Frosty9983"
+    },
+    "Oliveira Paiva CE54": {
+        "centro_custo": "421061",
+        "deposito": "157",
+        "Senha": "Frosty2360"
+    },
+    "Pacajus II CE39": {
+        "centro_custo": "421038",
+        "deposito": "123",
+        "Senha": "Frosty2185"
+    },
+    "Palmares CE15": {
+        "centro_custo": "421014",
+        "deposito": "66",
+        "Senha": "Frosty8674"
+    },
+    "Parangaba CE23": {
+        "centro_custo": "421022",
+        "deposito": "41",
+        "Senha": "Frosty1991"
+    },
+    "Parque São José CE34": {
+        "centro_custo": "421033",
+        "deposito": "118",
+        "Senha": "Frosty4933"
+    },
+    "Pontes Vieira CE33": {
+        "centro_custo": "421032",
+        "deposito": "43",
+        "Senha": "Frosty2009"
+    },
+    "Praça Padre Cícero CE52": {
+        "centro_custo": "421055",
+        "deposito": "152",
+        "Senha": "Frosty7875"
+    },
+    "Presidente Kennedy CE48": {
+        "centro_custo": "421044",
+        "deposito": "139",
+        "Senha": "Frosty5097"
+    },
+    "Russas CE22": {
+        "centro_custo": "421021",
+        "deposito": "79",
+        "Senha": "Frosty5509"
+    },
+    "São Cristovão CE10": {
+        "centro_custo": "421009",
+        "deposito": "58",
+        "Senha": "Frosty9831"
+    },
+    "São João CE21": {
+        "centro_custo": "421020",
+        "deposito": "35",
+        "Senha": "Frosty4039"
+    },
+    "Sarg Hermínio CE13": {
+        "centro_custo": "421012",
+        "deposito": "63",
+        "Senha": "Frosty8402"
+    },
+    "Shopping Aldeota CE40": {
+        "centro_custo": "421039",
+        "deposito": "129",
+        "Senha": "Frosty3152"
+    },
+    "Silas Munguba CE31": {
+        "centro_custo": "421030",
+        "deposito": "113",
+        "Senha": "Frosty7627"
+    },
+    "Solares CE08": {
+        "centro_custo": "421007",
+        "deposito": "56",
+        "Senha": "Frosty9723"
+    },
+    "Tiradentes CE25": {
+        "centro_custo": "421024",
+        "deposito": "106",
+        "Senha": "Frosty7419"
+    },
+    "TSMangabeira PB 02": {
+        "centro_custo": "426002",
+        "deposito": "168",
+        "Senha": "Frosty5458"
+    },
+    "TSShopping Sul PB 03": {
+        "centro_custo": "426003",
+        "deposito": "169",
+        "Senha": "Frosty2758"
+    },
+    "Baturité CE 03": {
+        "centro_custo": "421073",
+        "deposito": "181",
+        "Senha": "Frosty9390"
+    },
+    "Canindé CE 02": {
+        "centro_custo": "421072",
+        "deposito": "180",
+        "Senha": "Frosty6887"
+    },
+    "Redenção CE 01": {
+        "centro_custo": "421071",
+        "deposito": "178",
+        "Senha": "Frosty3725"
+    },
+    "Acaraú CE 08": {
+        "centro_custo": "421074",
+        "deposito": "182",
+        "Senha": "Frosty8388"
+    },
+    "Sobral CE06": {
+        "centro_custo": "421060",
+        "deposito": "154",
+        "Senha": "Frosty7610"
+    },
+    "Parnaíba I PI 07": {
+        "centro_custo": "424008",
+        "deposito": "173",
+        "Senha": "Frosty8615"
+    },
+    "Itapipoca CE02": {
+        "centro_custo": "421048",
+        "deposito": "132",
+        "Senha": "Frosty5342"
+    },
+    "Quixadá CE04": {
+        "centro_custo": "421057",
+        "deposito": "150",
+        "Senha": "Frosty6901"
+    },
+    "Quixeramobim CE01": {
+        "centro_custo": "421047",
+        "deposito": "145",
+        "Senha": "Frosty3645"
+    },
+    "Tianguá CE03": {
+        "centro_custo": "421049",
+        "deposito": "130",
+        "Senha": "Frosty9766"
+    },
+    "Caiucá PE 01": {
+        "centro_custo": "423022",
+        "deposito": "177",
+        "Senha": "Frosty4425"
+    },
+    "Salgado PE 02": {
+        "centro_custo": "423023",
+        "deposito": "179",
+        "Senha": "Frosty6158"
+    },
+    "Mossoró II RN01": {
+        "centro_custo": "425001",
+        "deposito": "148",
+        "Senha": "Frosty6470"
+    },
+    "Garupu PE 05": {
+        "centro_custo": "423025",
+        "deposito": "184",
+        "Senha": "Frosty5351"
+    },
+    "Cabo Santo Agostinho PE03": {
+        "centro_custo": "423021",
+        "deposito": "172",
+        "Senha": "Frosty1642"
+    },
+    "Candeias PE 02": {
+        "centro_custo": "423020",
+        "deposito": "170",
+        "Senha": "Frosty7196"
+    },
+    "Boa Viagem PE 01": {
+        "centro_custo": "423017",
+        "deposito": "164",
+        "Senha": "Frosty1778"
+    },
+    "Shopping Recife PE 04": {
+        "centro_custo": "423024",
+        "deposito": "183",
+        "Senha": "Frosty4973"
+    },
+    "Abreu e Lima PE22": {
+        "centro_custo": "423001",
+        "deposito": "68",
+        "Senha": "Frosty4812"
+    },
+    "Aeroporto PI17": {
+        "centro_custo": "424003",
+        "deposito": "39",
+        "Senha": "Frosty2936"
+    },
+    "Anjo da Guarda MA29": {
+        "centro_custo": "422002",
+        "deposito": "141",
+        "Senha": "Frosty4362"
+    },
+    "Caetés PE27": {
+        "centro_custo": "423006",
+        "deposito": "82",
+        "Senha": "Frosty3938"
+    },
+    "Candeias PE 47": {
+        "centro_custo": "423015",
+        "deposito": "134",
+        "Senha": "Frosty7210"
+    },
+    "Cohatrac V MA33": {
+        "centro_custo": "422005",
+        "deposito": "104",
+        "Senha": "Frosty3805"
+    },
+    "Cristo Rei PI21": {
+        "centro_custo": "424005",
+        "deposito": "67",
+        "Senha": "Frosty8232"
+    },
+    "Dirceu PI13": {
+        "centro_custo": "424001",
+        "deposito": "34",
+        "Senha": "Frosty7878"
+    },
+    "Holandeses MA31": {
+        "centro_custo": "422004",
+        "deposito": "102",
+        "Senha": "Frosty2134"
+    },
+    "Ibura I PE23": {
+        "centro_custo": "423002",
+        "deposito": "69",
+        "Senha": "Frosty5302"
+    },
+    "Ibura II PE42": {
+        "centro_custo": "423013",
+        "deposito": "75",
+        "Senha": "Frosty5775"
+    },
+    "Igarassu PE41": {
+        "centro_custo": "423012",
+        "deposito": "133",
+        "Senha": "Frosty3127"
+    },
+    "Janga PE25": {
+        "centro_custo": "423004",
+        "deposito": "71",
+        "Senha": "Frosty1313"
+    },
+    "Kennedy PI15": {
+        "centro_custo": "424002",
+        "deposito": "37",
+        "Senha": "Frosty4528"
+    },
+    "Maracanaú CE40": {
+        "centro_custo": "421052",
+        "deposito": "128",
+        "Senha": "Frosty3330"
+    },
+    "Maranguape I PE26": {
+        "centro_custo": "423005",
+        "deposito": "74",
+        "Senha": "Frosty3932"
+    },
+    "Maranguape II PE35": {
+        "centro_custo": "423008",
+        "deposito": "116",
+        "Senha": "Frosty2116"
+    },
+    "Mateus Paulista PE49": {
+        "centro_custo": "423018",
+        "deposito": "83",
+        "Senha": "Frosty1639"
+    },
+    "Mateus Peixinhos PE50": {
+        "centro_custo": "423019",
+        "deposito": "166",
+        "Senha": "Frosty5533"
+    },
+    "Olinda PE38": {
+        "centro_custo": "423010",
+        "deposito": "126",
+        "Senha": "Frosty4790"
+    },
+    "Pacajus I CE10": {
+        "centro_custo": "421050",
+        "deposito": "100",
+        "Senha": "Frosty6597"
+    },
+    "Parque Athenas MA30": {
+        "centro_custo": "422003",
+        "deposito": "30",
+        "Senha": "Frosty7652"
+    },
+    "Parque Piauí PI19": {
+        "centro_custo": "424004",
+        "deposito": "59",
+        "Senha": "Frosty8803"
+    },
+    "Piedade PE34": {
+        "centro_custo": "423007",
+        "deposito": "101",
+        "Senha": "Frosty4818"
+    },
+    "Prazeres PE24": {
+        "centro_custo": "423003",
+        "deposito": "70",
+        "Senha": "Frosty5446"
+    },
+    "Primavera PI45": {
+        "centro_custo": "424007",
+        "deposito": "143",
+        "Senha": "Frosty5670"
+    },
+    "San Martin PE43": {
+        "centro_custo": "423014",
+        "deposito": "142",
+        "Senha": "Frosty4014"
+    },
+    "Tabuleta PI32": {
+        "centro_custo": "424006",
+        "deposito": "115",
+        "Senha": "Frosty1776"
+    },
+    "Fortim CE51": {
+        "centro_custo": "421054",
+        "deposito": "149",
+        "Senha": "Frosty4636"
+    },
+    "MARACANAÚ CE01": {
+        "centro_custo": "421053",
+        "deposito": "128",
+        "Senha": "Frosty9505"
+    },
+    "SHOPPING EUSEBIO CE30": {
+        "centro_custo": "421029",
+        "deposito": "112",
+        "Senha": "Frosty5216"
+    },
+    "W Soares CE18": {
+        "centro_custo": "421017",
+        "deposito": "32",
+        "Senha": "Frosty5620"
+    },
+    "CARREFOUR CE16": {
+        "centro_custo": "421051",
+        "deposito": "38",
+        "Senha": "Frosty9726"
+    }},
+
+"Produtos" : {
+    "5001": "SORV FROSTY NAPOLITANO 5L",
+    "5002": "SORV FROSTY FLOCOS 5L",
+    "5003": "SORV FROSTY BRIGADEIRO 5L",
+    "5004": "SORV FROSTY CREME C/ PASSAS 5L",
+    "5005": "SORV FROSTY BOMBOM 5L",
+    "5006": "SORV FROSTY NATA GOIABA 5L",
+    "5007": "SORV FROSTY PAVE 5L",
+    "5008": "SORV FROSTY MORANGO 5L",
+    "5009": "SORV FROSTY CHOCOLATE MISTO 5L",
+    "5010": "SORV FROSTY DELICIA DE ABACAXI 5L",
+    "5011": "SORV FROSTY TAPIOCA 5L",
+    "5012": "SORV FROSTY CAJA 5L",
+    "5013": "SORV FROSTY GRAVIOLA 5L",
+    "5014": "SORV FROSTY CHOCOLATE 5L",
+    "5016": "SORV FROSTY DOCE DE LEITE FLOCADO 5L",
+    "5019": "SORV FROSTY AÇAI 5L",
+    "5022": "SORV FROSTY SONHO DE VALSA 5L",
+    "5023": "SORV FROSTY CREME BRULÉE C/ CAFE MOKA 5L",
+    "5024": "SORV FROSTY CHICLETE 5L",
+    "5025": "SORV FROSTY GREGO COM AMARENA 5L",
+    "5028": "SORV FROSTY CASTANHA COM PAÇOCA 5L",
+    "5029": "SORV FROSTY UNICORNIO 5L",
+    "5030": "SORV FROSTY CREME 5L",
+    "5031": "SORV FROSTY OVOMALTINE 5L",
+    "5034": "SORV FROSTY CHIOCOTELA 5L",
+    "5036": "SORV FROSTY NINHO 5L",
+    "5038": "SORV FROSTY MOUSSE DE MARACUJA 5L",
+    "5093": "SORV FROSTY NAPOLITANO DIET 5L",
+    "5094": "SORV FROSTY CHOCOLATE ZERO LACTOSE 5L",
+    "7002": "SORV FROSTY ESP FLOCOS 7L",
+    "7008": "SORV FROSTY ESP MORANGO 7L",
+    "7014": "SORV FROSTY ESP CHOCOLATE 7L",
+    "7019": "SORV FROSTY ESP AÇAÍ 7L",
+    "7030": "SORV FROSTY ESP CREME 7L",
+    "7036": "SORV FROSTY ESP NINHO 7L",
+    "7050": "SORV FROSTY ESP BAUNILHA 7L",
+    "10098": "CREME DE CUPUACU FROSTY 10L/6,5KG - UND",
+    "10099": "ACAI BATIDO FROSTY 10L/10KG - UND",
+    "20035": "CREME DE NINHO FROSTY 10L/6,3KG - UND",
+    "20002": "SORV FROSTY ESP FLOCOS 10L",
+    "20008": "SORV FROSTY ESP MORANGO 10L",
+    "20014": "SORV FROSTY ESP CHOCOLATE 10L",
+    "20015": "SORV FROSTY CASTANHA COM PAÇOCA 10L",
+    "20018": "SORV FROSTY MOUSSE DE CUPUAÇÚ 10L",
+    "20019": "SORV FROSTY ESP AÇAÍ 10L",
+    "20030": "SORV FROSTY ESP CREME 10L",
+    "20036": "SORV FROSTY ESP NINHO 10L",
+    "20050": "SORV FROSTY ESP BAUNILHA 10L"}
+}
