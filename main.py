@@ -1,4 +1,4 @@
-import streamlit as st
+    import streamlit as st
 import pandas as pd
 from io import BytesIO
 import json
@@ -39,8 +39,8 @@ else:
     quantidade = st.number_input("Quantidade consumida:", min_value=1, step=1)
     
     if st.button("Registrar Consumo"):
-        if quantidade == 0 or quantidade > 1000:
-            st.error("Por favor, preencha o campo com um valor válido (entre 1 e 1000).")
+        if quantidade == 0 or quantidade > 100:
+            st.error("Por favor, preencha o campo com um valor válido (entre 1 e 100).")
         else:
             loja_selecionada = st.session_state.loja_usuario
             novo_registro = pd.DataFrame.from_records([
